@@ -74,12 +74,6 @@ git clone https://github.com/kevalsayar/NFT-Marketplace.git
 git clone git@github.com:kevalsayar/NFT-Marketplace.git
 ```
 
-### Navigate to the project directory
-
-```bash
-cd NFT-Marketplace/backend
-```
-
 ### Install dependencies
 
 ```bash
