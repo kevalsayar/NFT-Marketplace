@@ -1,0 +1,5 @@
+export WEB3_RPC_URL=https://goerli.infura.io/v3/3c843d0d48d940e7a46c8dfde5956457
+export WEB3_PRIVATE_KEY=4de16a339f634bdac76a21ce825354c4060fae3ac5b8c703c01b303dc9403ec4
+
+web3 contract build MultiSend.sol
+web3 contract deploy MultiSend.bin
